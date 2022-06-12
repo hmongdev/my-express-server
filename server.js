@@ -1,5 +1,8 @@
 //jshint esversion:6
+
+// 1. require the module
 const express = require('express');
+// 2. create variable that we can call methods on
 const app = express();
 
 //GET request => HOME route
