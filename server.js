@@ -6,6 +6,7 @@ const express = require('express');
 const app = express();
 
 //.listen(port) => builds the server!
+//port is like a 'channel' for a TV. 3000 is a port that our app is tuned into
 app.listen(3000, function () {
     console.log('Server started on port 3000');
 });
