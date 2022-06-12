@@ -5,7 +5,7 @@ const express = require('express');
 // 2. create variable that we can call methods on
 const app = express();
 
-
+// 3. Creating Requests / Responses
 //GET request => HOME route
 app.get("/", (req, res) => {
     res.send("<h1>Welcome to my <em>first</em> express server!</h1>");
