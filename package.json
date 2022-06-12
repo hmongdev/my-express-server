@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Avery Yang",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "pstree.remy": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang2674/my-express-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yang2674/my-express-server/issues"
+  },
+  "homepage": "https://github.com/yang2674/my-express-server#readme"
 }
