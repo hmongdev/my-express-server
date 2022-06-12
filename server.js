@@ -1,6 +1,6 @@
 //jshint esversion:6
 
-// 1. require the module
+// 1. require the express module
 const express = require('express');
 // 2. create variable that we can call methods on
 const app = express();
